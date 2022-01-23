@@ -115,4 +115,4 @@ const generatePage = (name, github) => {
     `;
   };
 
-  // 9.4.6 All of the data is now getting printed to the page!
+// 9.5.4
